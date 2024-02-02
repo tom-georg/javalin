@@ -21,6 +21,15 @@
                   <mainClass>com.example.App</mainClass>
                 </transformer>
               </transformers>
+              <filters>
+                <filter>
+                  <artifact>*:*</artifact>
+                  <excludes>
+                    <exclude>module-info.class</exclude>
+                  </excludes>
+                </filter>
+              </filters>
+              <minimize>true</minimize>
             </configuration>
           </execution>
         </executions>

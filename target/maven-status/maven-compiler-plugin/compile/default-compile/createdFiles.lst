@@ -1,7 +1,0 @@
-com/example/App.class
-com/example/Modell/Manager.class
-com/example/Server.class
-com/example/Handlers/HelloHandler.class
-com/example/Handlers/BeitragGetListHandler.class
-com/example/Modell/Beitrag.class
-com/example/Handlers/BeitragPostCreateHandler.class
